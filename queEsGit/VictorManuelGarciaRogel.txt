@@ -1,0 +1,4 @@
+GIT es un software de control de versiones, el cual nos ayuda demaciado al momento de
+estar desarrollando software por que si llegamos a tener errores al realizar alguna modificación
+en nuestro archivo, no corremos el riesgo de tronar todo el programa ya que tenemos un historial 
+donde podremos rescatar el archivo antes de las modificaciones.

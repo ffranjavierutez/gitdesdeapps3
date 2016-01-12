@@ -1,0 +1,1 @@
+Git es una herramienta que permite el desarrollo de software de una manera facil y en colaboracion. 
