@@ -1,0 +1,8 @@
+<html>
+<head>
+<body>
+Git
+
+Git es un sistema de control de versiones distribuido cuyo objetivo es el de permitir mantener una gran cantidad de código a una gran cantidad de programadores eficientemente. Hay dos características de Git que creo que ayudan a entender esta definición simplista.
+</body></head>
+</html>
