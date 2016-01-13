@@ -1,0 +1,8 @@
+¿Qué es Git?
+Git es una plataforma dende podemos realizar copias de seguridad,
+pero estas copias siempre estan disponibles ya que son copias realizadas
+en la nube. Por lo mismo podemos consultar nuestros archivos donde sea.
+
+Existe varias formar de respaldar tu informacion, pero la diferencia entre 
+Git y las demas plataformas, es que Git te permite realizar copias de seguridad
+asincronas con las que tienes.
