@@ -1,0 +1,2 @@
+Git es un software controlador de versiones de una aplicación que permite trabajar en conjunto con un grupo
+de trabajo de manera remota.
