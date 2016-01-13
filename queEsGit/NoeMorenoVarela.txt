@@ -1,0 +1,7 @@
+¿Qué es GIT?
+ Git es un software creado para trabajar de forma ordenada dentro de un repositorio,
+cual puedes controlar versiones de un proyecto y trabajar de manera segura, actualizando,
+modificando y rescatando un proyecto para llegar a su meta. Puede trabajar desde un
+usuario hasta un equipo de trabajo.
+Puedes trabajar en el GIT Bash, consola similiar a Linux o desde una version gráfica que es
+el Git GUI.

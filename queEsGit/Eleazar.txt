@@ -1,0 +1,4 @@
+¿Que es GIT?
+ - Git es un controlador de versiones, que no permite llevar un proyecto en linea
+   de manera local o en la nube, las herramientas que nos proporciona no ayuda 
+   a tener ordenado y llevar un control sobre la estructura y el desarrollo de un proyecto.
