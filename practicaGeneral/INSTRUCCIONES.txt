@@ -1,0 +1,13 @@
+PRACTICA GENERAL DE GIT CONTROL DE VERSIONES
+
+En equipos van a realizar un sitio con HTML Y CSS que conste de 5 secciones del tema que quieran.
+
+Deberá tener:
+
+Imágenes
+3 párrafos por sección mínimo
+1 video youtube embebido
+
+TIENEN QUE USAR TODOS LOS COMANDOS DE GIT VISTOS EN CLASE
+
+EL REPOSITORIO DEBEN SUBIRLO A GITHUB
