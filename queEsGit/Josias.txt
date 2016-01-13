@@ -1,0 +1,6 @@
+¿Que es Git?
+Git es una herramienta que permite llevar un control de versiones, normalmente lo ocupan los desarrolladores
+ya que si lo ocupan otro tipo de personas no tendría sentido.
+Git permite crear código estable y tener código para realizar algunas pruebas, existe un Master y de esa versión
+podemos crear ramas, copia de master, para poder trabajar y hacer pruebas sin necesidad de afectar al código 
+"bueno"
