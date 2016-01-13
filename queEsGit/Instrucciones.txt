@@ -1,0 +1,1 @@
+Escribe que es git dentro de tu archivo con tu nombre en un txt
