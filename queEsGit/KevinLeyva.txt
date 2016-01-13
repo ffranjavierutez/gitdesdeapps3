@@ -1,0 +1,3 @@
+Git 
+
+Diseñado para trabajar en pequeños y grandes proyecto en conjunto de varias personas
