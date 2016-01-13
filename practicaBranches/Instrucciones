@@ -1,0 +1,11 @@
+PRACTICA DE RAMAS (BRANCHES)
+
+1) Para esta actividad deberán cada uno de ustedes crear una rama dentro de este repoositorio, crear una rama con su PRIMER nombre y PRIMER apellido de la siguiente forma:
+
+    FranciscoLopez
+
+2) Dentro de la rama deberán crear una página simple en HTML con un menú de 5 enlaces favoritos de ustedes (EXCEPCION DE REDES SOCIALES) relacionadas con la informática.
+
+3) Cada página deberá estar en una carpeta con su PRIMER nombre y PRIMER apellido
+
+4) Deberán hacer un MERGE de su rama a la rama master
