@@ -1,0 +1,2 @@
+¿Que es GIT?
+es un software de control  de versiones como tal que maneja una  eficencia y una estructura referente al como desarrollar aplicaciones de manera eficaz y remota
