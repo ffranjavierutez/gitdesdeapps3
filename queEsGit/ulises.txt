@@ -1,0 +1,2 @@
+Git es un controlador de versiones, que nos ayuda a desarrollar aplicaciones en equipo
+ya que es posible trabajar todos en un solo proyecto que esta en un repositorio en línea .
