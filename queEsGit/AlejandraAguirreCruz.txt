@@ -1,0 +1,3 @@
+¿Qué es GIT?
+GIT es un controlador de versiones donde se llevan el registro de todos los cambios que se realizaron en el código de 
+nuestra aplicación de manera rápida y eficiente.GIT se puede utilizar de manera local o remota.
