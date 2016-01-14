@@ -1,0 +1,4 @@
+¿Qué es GIT?
+Git es un gestor de versiones que nos permite llevar una especie de bítacora con los cambios realizados en nuestro código y respaldarlos en un repositorio en la nube.
+Nos permite tambien, crear ramas alternas para probar modulos de forma independiente sin afectar la rama principal y evitar dañar el código principal
+Es útil para trabajar en equipo ya que diferentes personas con acceso al repositorio pueden guardar cambios en el código.

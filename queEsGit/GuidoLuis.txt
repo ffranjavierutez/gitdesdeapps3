@@ -1,0 +1,1 @@
+Git es una herramienta que nos ayuda a controlar los cambios que hacemos en nuestros proyectos atravez de versiones
