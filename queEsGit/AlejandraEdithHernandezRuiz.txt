@@ -1,0 +1,5 @@
+               ¿Qué es GIT?
+Git es un software de control de versiones que modela los datos de una manera instantánea de un mini sistema de archivos.
+Controla las versiones de los diversos cambios de los archivos.
+Git a su vez nos proporciona diversas herramientas para desarrollar un mejor trabajo en quipo.
+Git se caracteriza por su rapidez en la gestión de ramas y por sus eficientes proyectos.

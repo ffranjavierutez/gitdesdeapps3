@@ -1,0 +1,5 @@
+						¿Que es git?
+
+	GIt es un software de control diseñado por linux pensando en
+ 	la eficiencia y la confiabilidad del mantenimiento de versiones, 
+	es un herramienta que nos ayudara a lo largo del cuatrimestre
