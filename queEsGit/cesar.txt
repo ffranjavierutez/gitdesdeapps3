@@ -1,0 +1,2 @@
+GitHub es una forja (plataforma de desarrollo colaborativo) para alojar proyectos.
+El código se almacena de forma pública, aunque también se puede hacer de forma privada, creando una cuenta de pago.

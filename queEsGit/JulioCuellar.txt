@@ -1,0 +1,9 @@
+Que es git?
+es un sistema de control de proyectos en versiones para manejar proyectos en 
+centros de desarrollo y empresas para mejorar la productividad y la eficacia,
+git en si es una herramienta de gestion de proyectos a nivel codigo ya que hace un tracking del uso y aplicacion en cierto proyecto ademas no es
+necesario tener una conexion a internet ya que puedes guardar todos tus 
+cambios de manera local y asi poder gestionar tu proyecto antes de incluirlo
+en uno mas grande en la nube
+git es un programa OpenSource creado por linus Torvalds.
+
