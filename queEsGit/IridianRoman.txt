@@ -1,0 +1,3 @@
+¿Què es git?
+Git es un control de versiones.
+Donde es posible guardar los cambios que se realizan en cada proyecto.
