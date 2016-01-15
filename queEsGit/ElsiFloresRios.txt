@@ -1,0 +1,1 @@
+Git es una herramienta utilizada para el control de versiones de un proyecto ya sea independiente o en equipo, sirve de gran utilidad para llevar un mejor manejo de control de nuestras versiones del proyecto y asi tener un buen resultado de desarrollo
